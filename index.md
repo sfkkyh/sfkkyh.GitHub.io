@@ -60,3 +60,8 @@
 合作方式：嵌入第三方SDK，SDK收集传输个人信息
 共享个人信息字段：设备MAC地址、唯一设备标识码、IP地址
 隐私政策：https://www.pangle.cn/privacy
+
+### 七 技术支持
+Welcome everyone to use our App!
+If you have questions, please contact us!
+E-mail:3538642534@qq.com
